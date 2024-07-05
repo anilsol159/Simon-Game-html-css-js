@@ -58,7 +58,7 @@ function check(){
             }, 100);
             gamePattern = [];
             userClickedPattern = [];
-            level = 0;
+            level = 1;
             return ;
         }
     }
